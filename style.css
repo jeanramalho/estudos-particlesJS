@@ -14,6 +14,8 @@ canvas {
     position: absolute;
     width: 100%;
     height: 100%;
+    
+    /* muda cor do fundo */
     background-color: #222;
     background-image: url("");
     background-repeat: no-repeat;
